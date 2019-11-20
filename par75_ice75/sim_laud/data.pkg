@@ -1,0 +1,13 @@
+# Packages
+ &PACKAGES
+ useEXF    = .TRUE.,
+ useSEAICE = .TRUE.,
+ useThSIce = .TRUE.,
+ useGGL90  = .TRUE.,
+ useGMRedi = .TRUE.,
+ useRBCS   = .TRUE.,
+ useDiagnostics=.TRUE.,
+ useCAL    = .TRUE.,
+ usePTRACERS= .TRUE.,
+ useGCHEM= .TRUE.,
+ &
